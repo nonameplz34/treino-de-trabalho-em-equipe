@@ -1,18 +1,20 @@
 ## leia-me
-projeto de teste de readme😎
+projeto de teste 
 
-## teste
-- html
+## ola 
+focado em treinar push pull e demais açoes do terminal 
+de 
 
 
 
-### ola 
+#### estudando no momento
+
+readme e tbm git ignore😎
 
 [<img src="">]
 
-#### como usar
 1 - passo 1
 ```
-teste
+print(hello mundo)
 
 ```
