@@ -11,7 +11,8 @@ de
 
 readme e tbm git ignore😎
 
-[<img src="">]
+
+[<img alt="isso ´´e um gif aleatorio" src="./Animaçãoteste.gif">]
 
 1 - passo 1
 ```
