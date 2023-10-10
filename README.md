@@ -1,21 +1,22 @@
-## leia-me
-projeto de teste 
+# leia-me
+projeto de testes
 
-## ola 
-focado em treinar push pull e demais açoes do terminal 
-de 
+## para que serve?
+tralhar em grupo e estudar
 
+### estudando no momento
 
+- Danilo
+<p>readme e tbm git ignore😎<P>
 
-#### estudando no momento
-
-readme e tbm git ignore😎
+- xxxx
+<P>------------------<P>
 
 
 [<img alt="isso ´´e um gif aleatorio" src="./Animaçãoteste.gif">]
 
-1 - passo 1
+
 ```
-print(hello mundo)
+print("hello world")
 
 ```
